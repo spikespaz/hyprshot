@@ -9,3 +9,5 @@ Fork of: <https://git.sr.ht/~shinyzenith/wayshot>
 
 - https://docs.rs/hyprland/latest/hyprland/data/blocking/fn.get_active_monitor.html
 - https://docs.rs/smithay-clipboard/latest/smithay_clipboard/struct.Clipboard.html#method.store
+- https://docs.rs/xkb/latest/xkb/
+- https://github.com/emersion/slurp/blob/master/include/slurp.h
